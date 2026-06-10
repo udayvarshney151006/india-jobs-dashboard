@@ -171,7 +171,7 @@ export default function Treemap({ data, metric }) {
           style={{
             left: hoverNode.x + 15,
             top: hoverNode.y + 15,
-            transform: hoverNode.x > window.innerWidth - 350 ? 'translateX(-110%)' : 'none'
+            transform: `translate(${hoverNode.x > window.innerWidth - 300 ? 'calc(-100% - 30px)' : '0'}, ${hoverNode.y > window.innerHeight - 300 ? 'calc(-100% - 30px)' : '0'})`
           }}
         >
           <div className="tooltip-title">{hoverNode.data.title}</div>

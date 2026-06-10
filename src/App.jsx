@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Database, TrendingUp, IndianRupee, Zap, Sparkles } from 'lucide-react';
 import Treemap from './Treemap';
+import StatsBar from './StatsBar';
 import data from './data/occupations.json';
 
 function App() {
@@ -41,6 +42,8 @@ function App() {
           </button>
         </div>
       </div>
+
+      <StatsBar data={data} metric={metric} />
 
       <Treemap data={data} metric={metric} />
 

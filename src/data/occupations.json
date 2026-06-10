@@ -1,0 +1,862 @@
+[
+  {
+    "id": "OCC-053",
+    "category": "Skilled Agricultural, Forestry and Fishery Workers",
+    "title": "Crop & Vegetable Farmers",
+    "employment": 110000000,
+    "median_pay": 120000,
+    "education": "Primary",
+    "ai_exposure": 1.5,
+    "rationale": "Physical labor in fields."
+  },
+  {
+    "id": "OCC-054",
+    "category": "Skilled Agricultural, Forestry and Fishery Workers",
+    "title": "Livestock & Dairy Farmers",
+    "employment": 44000000,
+    "median_pay": 144000,
+    "education": "Primary",
+    "ai_exposure": 1.5,
+    "rationale": "Physical animal care."
+  },
+  {
+    "id": "OCC-079",
+    "category": "Elementary Occupations",
+    "title": "Agricultural Labourers",
+    "employment": 38500000,
+    "median_pay": 96000,
+    "education": "None",
+    "ai_exposure": 0.0,
+    "rationale": "Unskilled manual labor in fields."
+  },
+  {
+    "id": "OCC-080",
+    "category": "Elementary Occupations",
+    "title": "Construction Labourers",
+    "employment": 22000000,
+    "median_pay": 144000,
+    "education": "None",
+    "ai_exposure": 0.0,
+    "rationale": "Heavy physical manual labor."
+  },
+  {
+    "id": "OCC-043",
+    "category": "Service and Sales Workers",
+    "title": "Shop Sales Assistants",
+    "employment": 19800000,
+    "median_pay": 180000,
+    "education": "Secondary",
+    "ai_exposure": 3.0,
+    "rationale": "In-person customer interaction."
+  },
+  {
+    "id": "OCC-081",
+    "category": "Elementary Occupations",
+    "title": "Domestic Cleaners & Helpers",
+    "employment": 16500000,
+    "median_pay": 120000,
+    "education": "None",
+    "ai_exposure": 0.0,
+    "rationale": "In-home physical cleaning."
+  },
+  {
+    "id": "OCC-044",
+    "category": "Service and Sales Workers",
+    "title": "Street Vendors",
+    "employment": 13200000,
+    "median_pay": 144000,
+    "education": "Primary",
+    "ai_exposure": 0.5,
+    "rationale": "Informal physical commerce."
+  },
+  {
+    "id": "OCC-055",
+    "category": "Skilled Agricultural, Forestry and Fishery Workers",
+    "title": "Poultry Farmers",
+    "employment": 11000000,
+    "median_pay": 160000,
+    "education": "Primary",
+    "ai_exposure": 2.0,
+    "rationale": "Automated feeding, mostly manual."
+  },
+  {
+    "id": "OCC-056",
+    "category": "Skilled Agricultural, Forestry and Fishery Workers",
+    "title": "Fishery Workers & Aquaculture",
+    "employment": 11000000,
+    "median_pay": 130000,
+    "education": "Primary",
+    "ai_exposure": 1.0,
+    "rationale": "Physical outdoor work on water."
+  },
+  {
+    "id": "OCC-057",
+    "category": "Skilled Agricultural, Forestry and Fishery Workers",
+    "title": "Forestry & Logging Workers",
+    "employment": 11000000,
+    "median_pay": 110000,
+    "education": "Primary",
+    "ai_exposure": 0.5,
+    "rationale": "Heavy physical manual labor."
+  },
+  {
+    "id": "OCC-058",
+    "category": "Skilled Agricultural, Forestry and Fishery Workers",
+    "title": "Plantation Workers (Tea/Coffee)",
+    "employment": 11000000,
+    "median_pay": 100000,
+    "education": "Primary",
+    "ai_exposure": 0.5,
+    "rationale": "Manual harvesting."
+  },
+  {
+    "id": "OCC-059",
+    "category": "Skilled Agricultural, Forestry and Fishery Workers",
+    "title": "Horticulturists & Gardeners",
+    "employment": 11000000,
+    "median_pay": 120000,
+    "education": "Primary",
+    "ai_exposure": 1.0,
+    "rationale": "Physical landscaping."
+  },
+  {
+    "id": "OCC-060",
+    "category": "Skilled Agricultural, Forestry and Fishery Workers",
+    "title": "Subsistence Farmers",
+    "employment": 11000000,
+    "median_pay": 80000,
+    "education": "None",
+    "ai_exposure": 0.0,
+    "rationale": "Survival farming."
+  },
+  {
+    "id": "OCC-082",
+    "category": "Elementary Occupations",
+    "title": "Manufacturing Labourers",
+    "employment": 11000000,
+    "median_pay": 132000,
+    "education": "Primary",
+    "ai_exposure": 1.0,
+    "rationale": "Manual lifting and packing."
+  },
+  {
+    "id": "OCC-061",
+    "category": "Craft and Related Trades Workers",
+    "title": "Carpenters & Joiners",
+    "employment": 9900000,
+    "median_pay": 240000,
+    "education": "Primary",
+    "ai_exposure": 1.0,
+    "rationale": "Physical construction."
+  },
+  {
+    "id": "OCC-062",
+    "category": "Craft and Related Trades Workers",
+    "title": "Bricklayers & Stonemasons",
+    "employment": 9900000,
+    "median_pay": 200000,
+    "education": "Primary",
+    "ai_exposure": 1.0,
+    "rationale": "Physical building."
+  },
+  {
+    "id": "OCC-063",
+    "category": "Craft and Related Trades Workers",
+    "title": "Garment & Textile Trades (Tailors)",
+    "employment": 9900000,
+    "median_pay": 180000,
+    "education": "Primary",
+    "ai_exposure": 2.0,
+    "rationale": "Physical fabric manipulation."
+  },
+  {
+    "id": "OCC-071",
+    "category": "Plant and Machine Operators, and Assemblers",
+    "title": "Heavy Truck & Bus Drivers",
+    "employment": 8250000,
+    "median_pay": 240000,
+    "education": "Secondary",
+    "ai_exposure": 4.5,
+    "rationale": "Exposed to autonomous vehicle AI."
+  },
+  {
+    "id": "OCC-045",
+    "category": "Service and Sales Workers",
+    "title": "Personal Care Workers",
+    "employment": 6600000,
+    "median_pay": 150000,
+    "education": "Secondary",
+    "ai_exposure": 1.0,
+    "rationale": "Physical empathetic care."
+  },
+  {
+    "id": "OCC-046",
+    "category": "Service and Sales Workers",
+    "title": "Cooks & Food Prep Workers",
+    "employment": 6600000,
+    "median_pay": 180000,
+    "education": "Primary",
+    "ai_exposure": 1.5,
+    "rationale": "Physical food preparation."
+  },
+  {
+    "id": "OCC-064",
+    "category": "Craft and Related Trades Workers",
+    "title": "Machinery Mechanics & Repairers",
+    "employment": 6600000,
+    "median_pay": 300000,
+    "education": "Secondary",
+    "ai_exposure": 3.0,
+    "rationale": "Physical repair work."
+  },
+  {
+    "id": "OCC-065",
+    "category": "Craft and Related Trades Workers",
+    "title": "Electrical Trades Workers",
+    "employment": 6600000,
+    "median_pay": 360000,
+    "education": "Secondary",
+    "ai_exposure": 3.5,
+    "rationale": "Wiring and electronics."
+  },
+  {
+    "id": "OCC-072",
+    "category": "Plant and Machine Operators, and Assemblers",
+    "title": "Car, Taxi & Van Drivers",
+    "employment": 6600000,
+    "median_pay": 216000,
+    "education": "Secondary",
+    "ai_exposure": 5.0,
+    "rationale": "Routing managed by AI."
+  },
+  {
+    "id": "OCC-012",
+    "category": "Professionals",
+    "title": "Primary & Secondary School Teachers",
+    "employment": 5500000,
+    "median_pay": 450000,
+    "education": "Bachelor's",
+    "ai_exposure": 6.0,
+    "rationale": "Physical classroom presence required."
+  },
+  {
+    "id": "OCC-083",
+    "category": "Elementary Occupations",
+    "title": "Street Cleaners & Refuse Workers",
+    "employment": 5500000,
+    "median_pay": 108000,
+    "education": "None",
+    "ai_exposure": 0.0,
+    "rationale": "Physical outdoor cleaning."
+  },
+  {
+    "id": "OCC-084",
+    "category": "Elementary Occupations",
+    "title": "Delivery Drivers & Messengers",
+    "employment": 5500000,
+    "median_pay": 180000,
+    "education": "Secondary",
+    "ai_exposure": 3.0,
+    "rationale": "Last mile physical delivery, AI routing."
+  },
+  {
+    "id": "OCC-085",
+    "category": "Elementary Occupations",
+    "title": "Hand Packers",
+    "employment": 5500000,
+    "median_pay": 120000,
+    "education": "Primary",
+    "ai_exposure": 1.0,
+    "rationale": "Manual packaging."
+  },
+  {
+    "id": "OCC-086",
+    "category": "Elementary Occupations",
+    "title": "Vehicle Cleaners",
+    "employment": 5500000,
+    "median_pay": 100000,
+    "education": "None",
+    "ai_exposure": 0.0,
+    "rationale": "Manual washing."
+  },
+  {
+    "id": "OCC-047",
+    "category": "Service and Sales Workers",
+    "title": "Security Guards",
+    "employment": 5280000,
+    "median_pay": 180000,
+    "education": "Secondary",
+    "ai_exposure": 3.5,
+    "rationale": "Physical presence."
+  },
+  {
+    "id": "OCC-066",
+    "category": "Craft and Related Trades Workers",
+    "title": "Plumbers & Pipefitters",
+    "employment": 5280000,
+    "median_pay": 280000,
+    "education": "Secondary",
+    "ai_exposure": 1.5,
+    "rationale": "Physical installation."
+  },
+  {
+    "id": "OCC-073",
+    "category": "Plant and Machine Operators, and Assemblers",
+    "title": "Stationary Plant Operators",
+    "employment": 4950000,
+    "median_pay": 260000,
+    "education": "Secondary",
+    "ai_exposure": 5.5,
+    "rationale": "Monitoring machinery."
+  },
+  {
+    "id": "OCC-074",
+    "category": "Plant and Machine Operators, and Assemblers",
+    "title": "Assembly Line Workers",
+    "employment": 4950000,
+    "median_pay": 190000,
+    "education": "Primary",
+    "ai_exposure": 3.0,
+    "rationale": "Physical repetitive labor."
+  },
+  {
+    "id": "OCC-048",
+    "category": "Service and Sales Workers",
+    "title": "Waiters & Bartenders",
+    "employment": 4620000,
+    "median_pay": 150000,
+    "education": "Secondary",
+    "ai_exposure": 2.0,
+    "rationale": "Physical serving."
+  },
+  {
+    "id": "OCC-067",
+    "category": "Craft and Related Trades Workers",
+    "title": "Welders & Flame Cutters",
+    "employment": 4620000,
+    "median_pay": 250000,
+    "education": "Secondary",
+    "ai_exposure": 2.0,
+    "rationale": "Metal joining."
+  },
+  {
+    "id": "OCC-011",
+    "category": "Professionals",
+    "title": "Software Developers & Engineers",
+    "employment": 4400000,
+    "median_pay": 1500000,
+    "education": "Bachelor's",
+    "ai_exposure": 9.5,
+    "rationale": "Core digital work, heavily exposed to AI coding."
+  },
+  {
+    "id": "OCC-049",
+    "category": "Service and Sales Workers",
+    "title": "Hairdressers & Beauticians",
+    "employment": 3300000,
+    "median_pay": 160000,
+    "education": "Secondary",
+    "ai_exposure": 1.0,
+    "rationale": "Physical personal service."
+  },
+  {
+    "id": "OCC-050",
+    "category": "Service and Sales Workers",
+    "title": "Childcare Workers",
+    "employment": 3300000,
+    "median_pay": 120000,
+    "education": "Secondary",
+    "ai_exposure": 1.5,
+    "rationale": "Physical supervision."
+  },
+  {
+    "id": "OCC-068",
+    "category": "Craft and Related Trades Workers",
+    "title": "Painters & Decorators",
+    "employment": 3300000,
+    "median_pay": 220000,
+    "education": "Primary",
+    "ai_exposure": 1.0,
+    "rationale": "Surface coating."
+  },
+  {
+    "id": "OCC-069",
+    "category": "Craft and Related Trades Workers",
+    "title": "Food Processing (Bakers/Butchers)",
+    "employment": 3300000,
+    "median_pay": 200000,
+    "education": "Primary",
+    "ai_exposure": 1.5,
+    "rationale": "Physical food prep."
+  },
+  {
+    "id": "OCC-070",
+    "category": "Craft and Related Trades Workers",
+    "title": "Jewelry & Precious Metal Workers",
+    "employment": 3300000,
+    "median_pay": 300000,
+    "education": "Secondary",
+    "ai_exposure": 2.5,
+    "rationale": "Fine manual crafting."
+  },
+  {
+    "id": "OCC-078",
+    "category": "Plant and Machine Operators, and Assemblers",
+    "title": "Textile & Sewing Machine Operators",
+    "employment": 3300000,
+    "median_pay": 150000,
+    "education": "Primary",
+    "ai_exposure": 2.5,
+    "rationale": "Manual machine operation."
+  },
+  {
+    "id": "OCC-003",
+    "category": "Managers",
+    "title": "Retail & Wholesale Trade Managers",
+    "employment": 2200000,
+    "median_pay": 600000,
+    "education": "Secondary",
+    "ai_exposure": 4.0,
+    "rationale": "Physical retail management."
+  },
+  {
+    "id": "OCC-014",
+    "category": "Professionals",
+    "title": "Accountants & Auditors",
+    "employment": 2200000,
+    "median_pay": 750000,
+    "education": "Bachelor's",
+    "ai_exposure": 8.5,
+    "rationale": "Highly digital structured data processing."
+  },
+  {
+    "id": "OCC-024",
+    "category": "Technicians and Associate Professionals",
+    "title": "Nursing & Midwifery Professionals",
+    "employment": 2200000,
+    "median_pay": 360000,
+    "education": "Diploma",
+    "ai_exposure": 3.5,
+    "rationale": "High physical care."
+  },
+  {
+    "id": "OCC-034",
+    "category": "Clerical Support Workers",
+    "title": "General Office Clerks",
+    "employment": 2200000,
+    "median_pay": 240000,
+    "education": "Secondary",
+    "ai_exposure": 9.5,
+    "rationale": "Routine digital processing."
+  },
+  {
+    "id": "OCC-035",
+    "category": "Clerical Support Workers",
+    "title": "Customer Service Reps",
+    "employment": 2200000,
+    "median_pay": 300000,
+    "education": "Secondary",
+    "ai_exposure": 9.0,
+    "rationale": "Voice and text AI agents."
+  },
+  {
+    "id": "OCC-052",
+    "category": "Service and Sales Workers",
+    "title": "Police Officers (Patrol)",
+    "employment": 1980000,
+    "median_pay": 350000,
+    "education": "Secondary",
+    "ai_exposure": 3.0,
+    "rationale": "Physical law enforcement."
+  },
+  {
+    "id": "OCC-013",
+    "category": "Professionals",
+    "title": "Medical Doctors & Surgeons",
+    "employment": 1760000,
+    "median_pay": 1800000,
+    "education": "Master's+",
+    "ai_exposure": 5.5,
+    "rationale": "High physical care requirements."
+  },
+  {
+    "id": "OCC-018",
+    "category": "Professionals",
+    "title": "Civil & Mechanical Engineers",
+    "employment": 1760000,
+    "median_pay": 800000,
+    "education": "Bachelor's",
+    "ai_exposure": 6.0,
+    "rationale": "Design software automation but physical execution."
+  },
+  {
+    "id": "OCC-002",
+    "category": "Managers",
+    "title": "Business Services & Admin Managers",
+    "employment": 1650000,
+    "median_pay": 1200000,
+    "education": "Bachelor's",
+    "ai_exposure": 7.5,
+    "rationale": "Digital coordination and process optimization."
+  },
+  {
+    "id": "OCC-004",
+    "category": "Managers",
+    "title": "Production & Manufacturing Managers",
+    "employment": 1650000,
+    "median_pay": 850000,
+    "education": "Bachelor's",
+    "ai_exposure": 5.0,
+    "rationale": "Factory environments with digital oversight."
+  },
+  {
+    "id": "OCC-023",
+    "category": "Technicians and Associate Professionals",
+    "title": "IT Support & Network Technicians",
+    "employment": 1650000,
+    "median_pay": 480000,
+    "education": "Diploma",
+    "ai_exposure": 7.0,
+    "rationale": "Troubleshooting can be automated."
+  },
+  {
+    "id": "OCC-025",
+    "category": "Technicians and Associate Professionals",
+    "title": "Accounting & Financial Assistants",
+    "employment": 1650000,
+    "median_pay": 300000,
+    "education": "Diploma",
+    "ai_exposure": 8.5,
+    "rationale": "Routine ledger balancing."
+  },
+  {
+    "id": "OCC-036",
+    "category": "Clerical Support Workers",
+    "title": "Bank Tellers & Clerks",
+    "employment": 1650000,
+    "median_pay": 360000,
+    "education": "Bachelor's",
+    "ai_exposure": 8.5,
+    "rationale": "Routine financial transactions."
+  },
+  {
+    "id": "OCC-075",
+    "category": "Plant and Machine Operators, and Assemblers",
+    "title": "Locomotive Engine Drivers",
+    "employment": 1650000,
+    "median_pay": 500000,
+    "education": "Secondary",
+    "ai_exposure": 6.0,
+    "rationale": "Fixed track automation."
+  },
+  {
+    "id": "OCC-076",
+    "category": "Plant and Machine Operators, and Assemblers",
+    "title": "Earthmoving Plant Operators",
+    "employment": 1650000,
+    "median_pay": 300000,
+    "education": "Secondary",
+    "ai_exposure": 4.0,
+    "rationale": "Heavy machinery driving."
+  },
+  {
+    "id": "OCC-077",
+    "category": "Plant and Machine Operators, and Assemblers",
+    "title": "Crane & Hoist Operators",
+    "employment": 1650000,
+    "median_pay": 280000,
+    "education": "Secondary",
+    "ai_exposure": 3.5,
+    "rationale": "Precision lifting."
+  },
+  {
+    "id": "OCC-051",
+    "category": "Service and Sales Workers",
+    "title": "Travel Guides & Attendants",
+    "employment": 1320000,
+    "median_pay": 200000,
+    "education": "Secondary",
+    "ai_exposure": 4.0,
+    "rationale": "In-person guidance, but AI can curate info."
+  },
+  {
+    "id": "OCC-005",
+    "category": "Managers",
+    "title": "Hospitality & Restaurant Managers",
+    "employment": 1100000,
+    "median_pay": 500000,
+    "education": "Secondary",
+    "ai_exposure": 3.0,
+    "rationale": "Interpersonal and physical environment."
+  },
+  {
+    "id": "OCC-006",
+    "category": "Managers",
+    "title": "Financial & Insurance Managers",
+    "employment": 1100000,
+    "median_pay": 1500000,
+    "education": "Bachelor's",
+    "ai_exposure": 8.0,
+    "rationale": "Heavily digital and analytical."
+  },
+  {
+    "id": "OCC-007",
+    "category": "Managers",
+    "title": "Sales & Marketing Managers",
+    "employment": 1100000,
+    "median_pay": 1100000,
+    "education": "Bachelor's",
+    "ai_exposure": 7.0,
+    "rationale": "Digital marketing and strategy."
+  },
+  {
+    "id": "OCC-015",
+    "category": "Professionals",
+    "title": "Lawyers & Legal Professionals",
+    "employment": 1100000,
+    "median_pay": 900000,
+    "education": "Master's+",
+    "ai_exposure": 8.0,
+    "rationale": "Text analysis and case law research."
+  },
+  {
+    "id": "OCC-017",
+    "category": "Professionals",
+    "title": "University & Higher Education Teachers",
+    "employment": 1100000,
+    "median_pay": 900000,
+    "education": "Master's+",
+    "ai_exposure": 7.0,
+    "rationale": "Research and teaching, high digital integration."
+  },
+  {
+    "id": "OCC-021",
+    "category": "Professionals",
+    "title": "Data Scientists & Analysts",
+    "employment": 1100000,
+    "median_pay": 1600000,
+    "education": "Bachelor's",
+    "ai_exposure": 9.5,
+    "rationale": "Advanced digital data processing."
+  },
+  {
+    "id": "OCC-022",
+    "category": "Professionals",
+    "title": "Registered Nurses",
+    "employment": 1100000,
+    "median_pay": 500000,
+    "education": "Bachelor's",
+    "ai_exposure": 4.0,
+    "rationale": "Physical healthcare delivery."
+  },
+  {
+    "id": "OCC-026",
+    "category": "Technicians and Associate Professionals",
+    "title": "Engineering Technicians",
+    "employment": 1100000,
+    "median_pay": 420000,
+    "education": "Diploma",
+    "ai_exposure": 4.5,
+    "rationale": "Hands-on machinery testing."
+  },
+  {
+    "id": "OCC-030",
+    "category": "Technicians and Associate Professionals",
+    "title": "Sales & Purchasing Agents",
+    "employment": 1100000,
+    "median_pay": 450000,
+    "education": "Diploma",
+    "ai_exposure": 6.5,
+    "rationale": "B2B sales and procurement routing."
+  },
+  {
+    "id": "OCC-037",
+    "category": "Clerical Support Workers",
+    "title": "Receptionists",
+    "employment": 1100000,
+    "median_pay": 216000,
+    "education": "Secondary",
+    "ai_exposure": 7.0,
+    "rationale": "Scheduling and greeting."
+  },
+  {
+    "id": "OCC-038",
+    "category": "Clerical Support Workers",
+    "title": "Data Entry Operators",
+    "employment": 1100000,
+    "median_pay": 200000,
+    "education": "Secondary",
+    "ai_exposure": 9.5,
+    "rationale": "Pure manual digital transcription."
+  },
+  {
+    "id": "OCC-041",
+    "category": "Clerical Support Workers",
+    "title": "Mail Carriers & Postal Clerks",
+    "employment": 1100000,
+    "median_pay": 220000,
+    "education": "Secondary",
+    "ai_exposure": 4.0,
+    "rationale": "Physical delivery."
+  },
+  {
+    "id": "OCC-020",
+    "category": "Professionals",
+    "title": "Graphic Designers & Artists",
+    "employment": 880000,
+    "median_pay": 500000,
+    "education": "Bachelor's",
+    "ai_exposure": 9.0,
+    "rationale": "Highly exposed to generative image AI."
+  },
+  {
+    "id": "OCC-027",
+    "category": "Technicians and Associate Professionals",
+    "title": "Medical Lab Technicians",
+    "employment": 880000,
+    "median_pay": 350000,
+    "education": "Diploma",
+    "ai_exposure": 5.0,
+    "rationale": "Lab testing, some AI diagnostic assist."
+  },
+  {
+    "id": "OCC-016",
+    "category": "Professionals",
+    "title": "Writers, Journalists & Content Creators",
+    "employment": 660000,
+    "median_pay": 600000,
+    "education": "Bachelor's",
+    "ai_exposure": 9.0,
+    "rationale": "Digital text and media generation."
+  },
+  {
+    "id": "OCC-001",
+    "category": "Managers",
+    "title": "Chief Executives & Senior Officials",
+    "employment": 550000,
+    "median_pay": 2400000,
+    "education": "Master's+",
+    "ai_exposure": 6.5,
+    "rationale": "High-level decision making."
+  },
+  {
+    "id": "OCC-008",
+    "category": "Managers",
+    "title": "Human Resources Managers",
+    "employment": 550000,
+    "median_pay": 900000,
+    "education": "Bachelor's",
+    "ai_exposure": 6.5,
+    "rationale": "Interpersonal but heavily reliant on HRIS systems."
+  },
+  {
+    "id": "OCC-009",
+    "category": "Managers",
+    "title": "Construction Managers",
+    "employment": 550000,
+    "median_pay": 800000,
+    "education": "Bachelor's",
+    "ai_exposure": 4.0,
+    "rationale": "On-site physical management with some digital planning."
+  },
+  {
+    "id": "OCC-010",
+    "category": "Managers",
+    "title": "Education & Health Managers",
+    "employment": 550000,
+    "median_pay": 700000,
+    "education": "Master's+",
+    "ai_exposure": 5.0,
+    "rationale": "Institutional management, moderate digital exposure."
+  },
+  {
+    "id": "OCC-028",
+    "category": "Technicians and Associate Professionals",
+    "title": "Pharmaceutical Technicians",
+    "employment": 550000,
+    "median_pay": 320000,
+    "education": "Diploma",
+    "ai_exposure": 4.0,
+    "rationale": "Dispensing medication."
+  },
+  {
+    "id": "OCC-031",
+    "category": "Technicians and Associate Professionals",
+    "title": "Real Estate Agents",
+    "employment": 550000,
+    "median_pay": 500000,
+    "education": "Secondary",
+    "ai_exposure": 5.0,
+    "rationale": "Physical property tours, digital listings."
+  },
+  {
+    "id": "OCC-032",
+    "category": "Technicians and Associate Professionals",
+    "title": "Fitness Instructors",
+    "employment": 550000,
+    "median_pay": 250000,
+    "education": "Secondary",
+    "ai_exposure": 2.0,
+    "rationale": "Physical training and motivation."
+  },
+  {
+    "id": "OCC-039",
+    "category": "Clerical Support Workers",
+    "title": "Payroll Clerks",
+    "employment": 550000,
+    "median_pay": 280000,
+    "education": "Secondary",
+    "ai_exposure": 9.0,
+    "rationale": "Automated wage calculation."
+  },
+  {
+    "id": "OCC-040",
+    "category": "Clerical Support Workers",
+    "title": "Library & Filing Clerks",
+    "employment": 550000,
+    "median_pay": 180000,
+    "education": "Secondary",
+    "ai_exposure": 8.0,
+    "rationale": "Digital cataloging."
+  },
+  {
+    "id": "OCC-042",
+    "category": "Clerical Support Workers",
+    "title": "Transport & Logistics Clerks",
+    "employment": 550000,
+    "median_pay": 250000,
+    "education": "Secondary",
+    "ai_exposure": 7.5,
+    "rationale": "Routing and tracking."
+  },
+  {
+    "id": "OCC-019",
+    "category": "Professionals",
+    "title": "Architects & Town Planners",
+    "employment": 440000,
+    "median_pay": 700000,
+    "education": "Bachelor's",
+    "ai_exposure": 6.5,
+    "rationale": "Digital drafting and design generation."
+  },
+  {
+    "id": "OCC-029",
+    "category": "Technicians and Associate Professionals",
+    "title": "Legal Assistants & Paralegals",
+    "employment": 440000,
+    "median_pay": 400000,
+    "education": "Diploma",
+    "ai_exposure": 8.5,
+    "rationale": "Document review and prep."
+  },
+  {
+    "id": "OCC-033",
+    "category": "Technicians and Associate Professionals",
+    "title": "Police Inspectors & Detectives",
+    "employment": 330000,
+    "median_pay": 600000,
+    "education": "Bachelor's",
+    "ai_exposure": 5.0,
+    "rationale": "Field work with digital surveillance analysis."
+  }
+]
